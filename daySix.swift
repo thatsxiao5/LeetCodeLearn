@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
-    //第六天,写错了
+    //第六天,写错了.....
     func moveZeroes(_ nums: inout [Int]) {
         // 解法二
         // 遇0 后移
