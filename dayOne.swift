@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-    
+    	//改标题
 
         var nums:[Int] = [0,1,1,7,6,32,2,3,3,3,4,4,4,4,5,5,5,6]
         //var nums:[Int] = [0,1,7,32,2,3,4,5,6]
