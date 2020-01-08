@@ -12,6 +12,7 @@ import UIKit
 
 class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        // 改标题
         // 1.两个有序数组nums1,元素个数为m ,nums2元素个数为n
         // 2.合并两个数组得到result
         // 3.使得result也是有序的
